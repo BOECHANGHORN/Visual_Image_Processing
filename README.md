@@ -1,5 +1,7 @@
 # VIP_Project
 
+### To view the pipeline, go to boe/<the ipynb file>
+
 # evaluate.py
 
 To change the module folder based on the member's pipeline, please change the module based on the members name as in:

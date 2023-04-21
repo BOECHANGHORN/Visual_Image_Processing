@@ -1,6 +1,6 @@
 # VIP_Project
 
-### To view the pipeline, go to boe/<the ipynb file>
+### To view the pipeline, go to boe/.ipynb file
 
 # evaluate.py
 

@@ -7,9 +7,7 @@ To change the module folder based on the member's pipeline, please change the mo
 ![image](https://user-images.githubusercontent.com/70759210/216228256-5fe61c66-1cf9-4a4c-acfc-4f347f8a32e5.png)
 
 1. Boe Chang Horn, 1181103320 : boe.main
-2. Chan Yun Hong, 1181103263 : yh.main
-3. Tan Kai Yuan, 1181103087 : jason.main
-4. Tan Wenn Tyan, 1181103420 : wt.main
+
 
 Make sure that the datasets folder path is just outside the project folder.
 
@@ -59,16 +57,4 @@ b) Based on the installation path, locate the file "tesseract.exe", and update t
 
 For my example, it is installed under C:\Program Files\Tesseract-OCR\tesseract.exe
 
-# jason/main.py
 
-Please make sure to install the libraries based on the "requirements.txt" file under the folder "jason/"
-
-# yh
-
-- To evaluate Chan Yun Hong's implemented method (LPRNet) or test out model training, please make sure to install the libraries based on the "requirements.txt" file under the folder "yh/"
-- To test out the model training, please run the following commands
-  1. cd yh/LPRNet
-  2. python train.py
-
-# wt
-Please make sure to install the libraries based on the "requirements.txt" file under the folder "wt/"
